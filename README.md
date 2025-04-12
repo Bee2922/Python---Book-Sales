@@ -1,1 +1,2 @@
-# Python---Book-Sales
+# Python - Book-Sales
+This project was executed using Python. The first step I carried out was to clean the data on Python which includes, dropping null values, checking for duplicates etc to ensure that the error in the analysis would be brought to the barest minimun. Next, I conducted various exploratory analysis by creating various charts like the bar chart, pie chart, box plot, hsitogram and the line charts, to provide answers to various questions. I also provided comments in the attached file so it's easy to understand the aim of each visuals that is captured.
